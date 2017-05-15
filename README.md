@@ -46,6 +46,18 @@ External Exploits
 
 [http://pastebin.com/ALKdpDsF](http://pastebin.com/ALKdpDsF)
 
+[https://github.com/Cn33liz/HSEVD-StackOverflow](https://github.com/Cn33liz/HSEVD-StackOverflow)
+
+[https://github.com/Cn33liz/HSEVD-StackOverflowX64](https://github.com/Cn33liz/HSEVD-StackOverflowX64)
+
+[https://github.com/Cn33liz/HSEVD-StackCookieBypass](https://github.com/Cn33liz/HSEVD-StackCookieBypass)
+
+[https://github.com/Cn33liz/HSEVD-ArbitraryOverwrite](https://github.com/Cn33liz/HSEVD-ArbitraryOverwrite)
+
+[https://github.com/Cn33liz/HSEVD-ArbitraryOverwriteGDI](https://github.com/Cn33liz/HSEVD-ArbitraryOverwriteGDI)
+
+[https://github.com/Cn33liz/HSEVD-StackOverflowGDI](https://github.com/Cn33liz/HSEVD-StackOverflowGDI)
+
 
 External Researches
 -------------------
@@ -130,11 +142,10 @@ Building Driver
 
 Download
 --------
-If you do not want to build **HackSys Extreme Vulnerable Driver** from source, you can download pre-build
+If you do not want to build **HackSys Extreme Vulnerable Driver** from source, you could download pre-built
 executables for the latest release:
 
-&nbsp;&nbsp;&nbsp;&nbsp;[HEVD.zip]
-    (https://github.com/hacksysteam/HackSysExtremeVulnerableDriver/releases/download/v1.20/HEVD.1.20.zip)
+&nbsp;&nbsp;&nbsp;&nbsp;[HEVD.zip](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver/releases/download/v1.20/HEVD.1.20.zip)
 
 
 Installing Driver
